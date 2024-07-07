@@ -1,3 +1,0 @@
-john;developers,finance
-jane;designers
-alice;admin,finance,marketing

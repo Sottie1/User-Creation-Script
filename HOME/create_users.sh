@@ -111,3 +111,5 @@ while IFS=';' read -r username groups; do
 done < "$INPUT_FILE"
 
 log_action "User creation process completed."
+
+
